@@ -22,8 +22,8 @@ For convenience, we strongly recommended users to install the Anaconda Python 3.
 ### 2. Running BERT
 Changing working dir to MetaAc4C, and then running the following Build bert environment according to bert requirements：tf1_py2
 https://github.com/google-research/bert
-command:  
 
+command:  
 source activate tf1_py2
 CUDA_VISIBLE_DEVICES=2 python /BERT-All_models/codes/extract-last-layer-features_All_config.py -species 'ac4c' -max-len 415
 
