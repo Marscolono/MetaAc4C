@@ -1,5 +1,5 @@
 # MetaAc4C
-MetaAc4C: A multi-module deep learning framework for accurate prediction of N4-acetylcytidine sites based on pre-trained bidirectional encoder representation and generative adversarial networks.
+MetaAc4C: A multi-module deep learning framework for accurate prediction of N4-acetylcytidine sites based on pre-trained bidirectional encoder representation and generative adversarial networks. (under review: Bioinformatics)
 
 
 The source code and datasets(both training and testing datasets) can be freely download from the github
